@@ -1,6 +1,7 @@
 #!/bin/bash
 #######################################
 #
+# Date:17/08/2025
 # Author: Md firdaus Ansari
 # version 0.0.1
 # script to automate the process of listing all resource in an aws account.
